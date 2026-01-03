@@ -1,0 +1,7 @@
+{
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.smartSelect.selectLeadingAndTrailingWhitespace": true,
+    "editor.experimental.preferTreeSitter.regex": true,
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true
+}
