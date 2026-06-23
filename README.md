@@ -1,16 +1,24 @@
-# meme_swipe
+# meme-swipe
 
-A new Flutter project.
+A fun and interactive meme-swiping application built with Flutter.
+
+## Overview
+This project is designed to provide a simple swipe-based experience for discovering memes through an engaging mobile interface.
+
+## Key Features
+- Swipe-based interaction
+- Clean and modern UI
+- Simple app flow
+- Good portfolio project for Flutter UI design
+
+## Tech Stack
+- Flutter
+- Dart
 
 ## Getting Started
+1. Clone the repository
+2. Install dependencies
+3. Run the app locally
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contact
+For questions or collaboration, reach out to @pushphans.
